@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1{
+    color: blueviolet;
+}
+
+.dog-title{
+    font-style: italic;
+    color: aquamarine;
+}
